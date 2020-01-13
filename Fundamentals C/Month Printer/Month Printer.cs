@@ -50,5 +50,6 @@ namespace Month_Printer
                     Console.WriteLine("Error!");
                     break;
             }
+        }
     }
 }
