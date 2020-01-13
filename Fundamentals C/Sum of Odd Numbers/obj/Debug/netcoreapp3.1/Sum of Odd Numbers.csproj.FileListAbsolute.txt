@@ -1,0 +1,11 @@
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.exe
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.deps.json
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.runtimeconfig.json
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.dll
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.pdb
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.dll
+D:\SoftUni\Fundamentals c#\Fundamentals C\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.pdb
