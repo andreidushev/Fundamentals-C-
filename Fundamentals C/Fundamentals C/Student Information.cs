@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fundamentals_C
+namespace Student Information
 {
     class Program
     {
