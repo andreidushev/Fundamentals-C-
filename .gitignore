@@ -76,3 +76,5 @@ Fundamentals C/Divisible by 3/obj/Debug/netcoreapp3.1/Divisible by 3.dll
 Fundamentals C/Divisible by 3/obj/Debug/netcoreapp3.1/Divisible by 3.exe
 Fundamentals C/Divisible by 3/obj/Debug/netcoreapp3.1/Divisible by 3.pdb
 Fundamentals C/Foreign Languages/obj/Debug/netcoreapp3.1/Foreign Languages.csprojAssemblyReference.cache
+bin/
+obj/
